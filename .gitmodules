@@ -1,0 +1,3 @@
+[submodule "semantic_search_playground"]
+	path = semantic_search_playground
+	url = https://github.com/jackbarry24/semantic_search_playground
